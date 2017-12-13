@@ -1,4 +1,13 @@
 # lesson One
+
+### css background properties:
+background: Sets all the background properties in one declaration
+background-attachment: Sets whether a background image is fixed or scrolls with the rest of the page
+background-color: Sets the background color of an element
+background-image: Sets the background image for an element
+background-position: Sets the starting position of a background image
+**background-position: center bottom; left right
+background-repeat: Sets how a background image will be repeated
 ```html
 <section class="slide_1">
 </section>
