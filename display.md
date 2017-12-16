@@ -81,7 +81,7 @@ li {
 ### font
 
 ## background
-![background Position](
+![background Position](https://github.com/helloMikkie/fundamentals/blob/master/img_001.jpg)
 ### background-color
 ### background-image
 ### background-size
