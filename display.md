@@ -1,3 +1,7 @@
+# CSS
+## Display
+
+
 ## display: inline
 ```html
 <ul>
@@ -12,7 +16,9 @@ li {
 }
 ```
 
+
 ## float
+
 ```html
 <h2>Without clear</h2>
 <div class="div1">div1</div>
@@ -50,3 +56,33 @@ li {
     clear: left;
 }
 ```
+## position
+
+### static
+
+### relative
+### absolute
+### fixed
+
+
+
+## Units
+
+### px
+
+### em
+
+### rem
+
+### vh vw vmin vmax
+
+
+## Typographie
+### font
+
+## background
+### background-color
+### background-image
+### background-size
+### background-position
+### background-repeat
