@@ -8,7 +8,7 @@ Insert a slider
 
 Insert a dynamic list into the first slide
 
-![](https://static.notion-static.com/5d8d9dabb9b54c88bb7e735c84706ef7/Untitled)
+![testimage](https://static.notion-static.com/5d8d9dabb9b54c88bb7e735c84706ef7/Untitled)
 
 Select a collection to get images from, set layout to full width, and restrict the item to display start item 1, limit to item 1.
 
