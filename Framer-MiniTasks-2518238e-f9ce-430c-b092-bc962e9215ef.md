@@ -4,7 +4,7 @@
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/d81ea3160ffb4b99a8639e6f2866298a/eee.gif)
 
-[](https://gist.github.com/helloMikkie/1b492fa3bf0bd334b9fbae6e3b1610c1)
+[check](https://gist.github.com/helloMikkie/1b492fa3bf0bd334b9fbae6e3b1610c1)
 
 # Drawing with cursor
 
